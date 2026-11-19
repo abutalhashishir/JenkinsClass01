@@ -1,0 +1,13 @@
+//Login Data
+email= qa_testers@qabrains.com
+password= Password123
+invalidEmail=1@gm.cm
+invalidPasss=1@gm.cm
+
+//Registration Page Data
+nameFied= Test One
+Country= Bangladesh
+AccountType=Engineer
+email2=testone@gmail.com
+password1=Passwor123
+ConfiemPassword=Passwor123
